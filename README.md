@@ -1,4 +1,4 @@
-#Dr. King Schultz
+# Dr. King Schultz
 #### an exposed module to liberate you from OS implemented SSL pinning mechanisms
 
 ## Description
@@ -70,9 +70,9 @@ for example:
     
     </network-security-config>
 ```
-but don't worry, you can bypass all this configs or any other OS implemented configs just using this module,
+but don't worry, you can bypass all this configs or any other OS implemented configs just using this module
 wait!
-there is more..."
+there is more...
 #### >>>  you don't need to even add your proxy certificate to the device  <<<
 
 isn't that exiting!!!?
