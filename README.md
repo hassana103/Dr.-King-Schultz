@@ -73,7 +73,23 @@ for example:
 but don't worry, you can bypass all this configs or any other OS implemented configs just using this module
 wait!
 there is more...
-#### >>>  you don't need to even add your proxy certificate to the device  <<<
+### >>>  you don't need to even add your proxy certificate to the device  <<<
 
 isn't that exiting!!!?
+
 ---
+
+#### here is what you need to do
+1. root your device using magisk
+1. install LSPosed framework
+1. download last version of this module APK from [releases]() section
+1. install the APK on you device
+   ```bash
+      adb install DrKingSchults.apk 
+   ```
+1. enable it in the list of modules in LSPosed
+1. select your app
+1. set your Proxy properly
+1. Done!!
+
+enjoy having your apps traffic in your proxy...
